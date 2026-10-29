@@ -1,4 +1,4 @@
-# Crystal Study Kit - roteiro para hoje à noite
+# Crystal Study Kit 
 
 Mini-ERP de distribuição (SQL Server) + app VB.NET WinForms (.NET Framework 4.8)
 com Crystal Reports, cobrindo exatamente o que a vaga pede.
